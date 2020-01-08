@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>I'm Rick James, *Beeeep*</h2>
+<h2>FREAKING DO SOMETHING!!</h2>
 </body>
 </html>
