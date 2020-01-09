@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>FREAKINddG SOMEewaefwafeTHING!!</h2>
+<h2>FREAKINddG SOMEedwaefwafeTHING!!</h2>
 </body>
 </html>
